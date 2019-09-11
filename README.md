@@ -3,7 +3,7 @@
 ## Academy of Py
 In this capacity, I am helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
 
-First task - to analyze the district-wide standardized test results and aggregate the data and showcase obvious trends in school performance.
+Tasks - to analyze the district-wide standardized test results, aggregate the data and showcase obvious trends in school performance.
 
 The final report includes each of the following:
 
