@@ -9,14 +9,14 @@ The final report includes each of the following:
 
 ### District Summary
 A high level snapshot (in table form) of the district's key metrics, including: 
-  Total Schools
-  Total Students
-  Total Budget
-  Average Math Score
-  Average Reading Score
-  % Passing Math
-  % Passing Reading
-  Overall Passing Rate (Average of the above two)
+  * Total Schools
+  * Total Students
+  * Total Budget
+  * Average Math Score
+  * Average Reading Score
+  * % Passing Math
+  * % Passing Reading
+  * Overall Passing Rate (Average of the above two)
   
 ### School Summary
 An overview table that summarizes key metrics about each school, including: 
