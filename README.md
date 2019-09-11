@@ -7,13 +7,26 @@ First task - to analyze the district-wide standardized test results and aggregat
 
 The final report includes each of the following:
 
-###District Summary
-Create a high level snapshot (in table form) of the district's key metrics, including: 
-Total Schools
-Total Students
-Total Budget
-Average Math Score
-Average Reading Score
-% Passing Math
-% Passing Reading
-Overall Passing Rate (Average of the above two)
+### District Summary
+A high level snapshot (in table form) of the district's key metrics, including: 
+  Total Schools
+  Total Students
+  Total Budget
+  Average Math Score
+  Average Reading Score
+  % Passing Math
+  % Passing Reading
+  Overall Passing Rate (Average of the above two)
+  
+### School Summary
+An overview table that summarizes key metrics about each school, including: 
+  School Name
+  School Type
+  Total Students
+  Total School Budget
+  Per Student Budget
+  Average Math Score
+  Average Reading Score
+  % Passing Math
+  % Passing Reading
+  Overall Passing Rate (Average of the above two)
