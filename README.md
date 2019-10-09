@@ -6,7 +6,7 @@
 
 ![Education](https://github.com/ofunkey/pandas_challenge/blob/master/PyCitySchools/Images/education.png)
 
-In this work, I am analyzing the district-wide standardized test results. With an access to every student's math and reading scores, as well as various information on the schools they attend, I will aggregate the data to and showcase obvious trends in school performance.
+In this work, I analyzed the district-wide standardized test results. With an access to every student's math and reading scores, as well as various information on the schools they attend, I will aggregate the data to and showcase obvious trends in school performance.
 
 The final report includes each of the following:
 
@@ -50,12 +50,12 @@ The final report includes each of the following:
   * % Passing Math
   * % Passing Reading
   * Overall Passing Rate (Average of the above two)
-  ![Top_Performing_Schools _By_Passing Rate](https://github.com/ofunkey/pandas_challenge/blob/master/PyCitySchools/Images/Top_Performing_Schools_By_Passing Rate.png)
+  ![Top_Performing_Schools_By_Passing_Rate](https://github.com/ofunkey/pandas_challenge/blob/master/PyCitySchools/Images/Top_Performing_Schools_By_Passing_Rate.png)
 
 ### Bottom Performing Schools (By Passing Rate)
 
 * Create a table that highlights the bottom 5 performing schools based on Overall Passing Rate aith all metrics above.
-![Bottom_Performing_Schools _By_Passing Rate](https://github.com/ofunkey/pandas_challenge/blob/master/PyCitySchools/Images/Bottom_Performing_Schools_By_Passing Rate.png)
+![Bottom_Performing_Schools_By_Passing_Rate](https://github.com/ofunkey/pandas_challenge/blob/master/PyCitySchools/Images/Bottom_Performing_Schools_By_Passing_Rate.png)
 
 ### Math Scores by Grade\*\*
 
