@@ -36,7 +36,6 @@ The final report includes each of the following:
   * % Passing Math
   * % Passing Reading
   * Overall Passing Rate (Average of the above two)
-  ![School_Summary](https://github.com/ofunkey/pandas_challenge/blob/master/PyCitySchools/Images/School_Summary.png)
 
 ### Top Performing Schools (By Passing Rate)
 
@@ -51,12 +50,12 @@ The final report includes each of the following:
   * % Passing Math
   * % Passing Reading
   * Overall Passing Rate (Average of the above two)
-  ![Top_Performing_Schools _By_Passing Rate](https://github.com/ofunkey/pandas_challenge/blob/master/PyCitySchools/Images/Top_Performing_Schools _By_Passing Rate.png)
+  ![Top_Performing_Schools _By_Passing Rate](https://github.com/ofunkey/pandas_challenge/blob/master/PyCitySchools/Images/Top_Performing_Schools_By_Passing Rate.png)
 
 ### Bottom Performing Schools (By Passing Rate)
 
 * Create a table that highlights the bottom 5 performing schools based on Overall Passing Rate aith all metrics above.
-![Bottom_Performing_Schools _By_Passing Rate](https://github.com/ofunkey/pandas_challenge/blob/master/PyCitySchools/Images/Bottom_Performing_Schools _By_Passing Rate.png)
+![Bottom_Performing_Schools _By_Passing Rate](https://github.com/ofunkey/pandas_challenge/blob/master/PyCitySchools/Images/Bottom_Performing_Schools_By_Passing Rate.png)
 
 ### Math Scores by Grade\*\*
 
